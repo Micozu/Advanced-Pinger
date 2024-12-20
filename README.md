@@ -11,14 +11,3 @@ This Python-based tool allows you to ping a specific IP address and port using b
 
 ---
 
-Enter the IP address: 192.168.1.1
-Enter the port: 80
-
-Checking connection for 192.168.1.1:80 via TCP...
-Connection established successfully with 192.168.1.1:80 via TCP.
-
-Starting to ping 192.168.1.1:80 using TCP...
-
-Connected to 192.168.1.1:80 via TCP protocol. time=15.35ms
-Connected to 192.168.1.1:80 via TCP protocol. time=14.92ms
-...
